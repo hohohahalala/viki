@@ -1,0 +1,51 @@
+{
+    "baseVideoDuration": 242,
+    "baseVideoId": "hds7Ny6v6NY",
+    "cut": [
+        {
+            "begin": 4,
+            "duration": 1,
+            "with": {
+                "begin": 44.68680538237095,
+                "duration": 4.934630440780893,
+                "id": "hds7Ny6v6NY"
+            }
+        },
+        {
+            "begin": 9,
+            "duration": 1,
+            "with": {
+                "begin": 27.662402652204037,
+                "duration": 4.434045383706689,
+                "id": "hds7Ny6v6NY"
+            },
+            "end": "end"
+        }
+    ],
+    "clip": [
+        {
+            "begin": 0,
+            "duration": 4,
+            "end": 4,
+            "id": "hds7Ny6v6NY"
+        },
+        {
+            "begin": 44.68680538237095,
+            "duration": 4.934630440780893,
+            "id": "hds7Ny6v6NY",
+            "end": 49.62143582315184
+        },
+        {
+            "begin": 5,
+            "duration": 4,
+            "end": 9,
+            "id": "hds7Ny6v6NY"
+        },
+        {
+            "begin": 27.662402652204037,
+            "duration": 4.434045383706689,
+            "id": "hds7Ny6v6NY",
+            "end": 32.096448035910726
+        }
+    ]
+}
