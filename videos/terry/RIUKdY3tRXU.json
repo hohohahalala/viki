@@ -1,0 +1,31 @@
+{
+    "baseVideoDuration": 242,
+    "baseVideoId": "VHMSLq9KY-Y",
+    "cut": [
+        {
+            "with": {
+                "id": "VHMSLq9KY-Y",
+                "begin": 0,
+                "duration": 3.069404,
+                "end": 3.069404
+            },
+            "begin": 0,
+            "duration": 1.63701,
+            "end": 1.63701
+        }
+    ],
+    "clip": [
+        {
+            "id": "VHMSLq9KY-Y",
+            "begin": 0,
+            "duration": 3.069404,
+            "end": 3.069404
+        },
+        {
+            "begin": 1.63701,
+            "duration": 240.36299,
+            "end": 242,
+            "id": "VHMSLq9KY-Y"
+        }
+    ]
+}
