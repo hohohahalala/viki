@@ -1,0 +1,31 @@
+{
+    "baseVideoDuration": 242,
+    "baseVideoId": "nLX4hb8127A",
+    "cut": [
+        {
+            "with": {
+                "id": "nLX4hb8127A",
+                "begin": 0,
+                "duration": 8.547879,
+                "end": 8.547879
+            },
+            "begin": 0,
+            "duration": 9.638449,
+            "end": 9.638449
+        }
+    ],
+    "clip": [
+        {
+            "id": "nLX4hb8127A",
+            "begin": 0,
+            "duration": 8.547879,
+            "end": 8.547879
+        },
+        {
+            "begin": 9.638449,
+            "duration": 232.361551,
+            "end": 242,
+            "id": "nLX4hb8127A"
+        }
+    ]
+}
