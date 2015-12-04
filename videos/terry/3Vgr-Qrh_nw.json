@@ -1,0 +1,31 @@
+{
+    "baseVideoDuration": 242,
+    "baseVideoId": "dlbuDeBhnfk",
+    "cut": [
+        {
+            "with": {
+                "id": "dlbuDeBhnfk",
+                "begin": 11.522135,
+                "duration": 5.460966000000001,
+                "end": 16.983101
+            },
+            "begin": 0,
+            "duration": 4.190186,
+            "end": 4.190186
+        }
+    ],
+    "clip": [
+        {
+            "id": "dlbuDeBhnfk",
+            "begin": 11.522135,
+            "duration": 5.460966000000001,
+            "end": 16.983101
+        },
+        {
+            "begin": 4.190186,
+            "duration": 237.809814,
+            "end": 242,
+            "id": "dlbuDeBhnfk"
+        }
+    ]
+}
