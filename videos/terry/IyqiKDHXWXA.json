@@ -1,0 +1,31 @@
+{
+    "baseVideoDuration": 242,
+    "baseVideoId": "Hqk0wdrz380",
+    "cut": [
+        {
+            "with": {
+                "id": "Hqk0wdrz380",
+                "begin": 6.153326,
+                "duration": 9.440719,
+                "end": 15.594045
+            },
+            "begin": 0,
+            "duration": 1.601551,
+            "end": 1.601551
+        }
+    ],
+    "clip": [
+        {
+            "id": "Hqk0wdrz380",
+            "begin": 6.153326,
+            "duration": 9.440719,
+            "end": 15.594045
+        },
+        {
+            "begin": 1.601551,
+            "duration": 240.398449,
+            "end": 242,
+            "id": "Hqk0wdrz380"
+        }
+    ]
+}
