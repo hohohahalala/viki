@@ -1,0 +1,31 @@
+{
+    "baseVideoDuration": 242,
+    "baseVideoId": "Z3aERshAp-w",
+    "cut": [
+        {
+            "with": {
+                "id": "Z3aERshAp-w",
+                "begin": 0,
+                "duration": 7.618181,
+                "end": 7.618181
+            },
+            "begin": 0,
+            "duration": 4.370664,
+            "end": 4.370664
+        }
+    ],
+    "clip": [
+        {
+            "id": "Z3aERshAp-w",
+            "begin": 0,
+            "duration": 7.618181,
+            "end": 7.618181
+        },
+        {
+            "begin": 4.370664,
+            "duration": 237.629336,
+            "end": 242,
+            "id": "Z3aERshAp-w"
+        }
+    ]
+}
