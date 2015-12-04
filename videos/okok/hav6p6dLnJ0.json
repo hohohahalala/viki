@@ -1,0 +1,31 @@
+{
+    "baseVideoDuration": 242,
+    "baseVideoId": "LS6a6Ga-JEA",
+    "cut": [
+        {
+            "with": {
+                "id": "3Pfat4Zktkg",
+                "begin": 0,
+                "duration": 17.295158,
+                "end": 17.295158
+            },
+            "begin": 0,
+            "duration": 3.381132,
+            "end": 3.381132
+        }
+    ],
+    "clip": [
+        {
+            "id": "3Pfat4Zktkg",
+            "begin": 0,
+            "duration": 17.295158,
+            "end": 17.295158
+        },
+        {
+            "begin": 3.381132,
+            "duration": 238.618868,
+            "end": 242,
+            "id": "LS6a6Ga-JEA"
+        }
+    ]
+}
