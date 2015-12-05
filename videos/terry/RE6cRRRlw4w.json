@@ -1,0 +1,31 @@
+{
+    "baseVideoDuration": 242,
+    "baseVideoId": "BplPAsSRLm8",
+    "cut": [
+        {
+            "with": {
+                "id": "BplPAsSRLm8",
+                "begin": 0.575018,
+                "duration": 9.157315,
+                "end": 9.732333
+            },
+            "begin": 0,
+            "duration": 12.997787,
+            "end": 12.997787
+        }
+    ],
+    "clip": [
+        {
+            "id": "BplPAsSRLm8",
+            "begin": 0.575018,
+            "duration": 9.157315,
+            "end": 9.732333
+        },
+        {
+            "begin": 12.997787,
+            "duration": 229.002213,
+            "end": 242,
+            "id": "BplPAsSRLm8"
+        }
+    ]
+}
