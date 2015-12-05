@@ -1,0 +1,31 @@
+{
+    "baseVideoDuration": 242,
+    "baseVideoId": "Dm779lkfgag",
+    "cut": [
+        {
+            "with": {
+                "id": "Dm779lkfgag",
+                "begin": 0,
+                "duration": 0,
+                "end": 0
+            },
+            "begin": 0,
+            "duration": 0,
+            "end": 0
+        }
+    ],
+    "clip": [
+        {
+            "id": "Dm779lkfgag",
+            "begin": 0,
+            "duration": 0,
+            "end": 0
+        },
+        {
+            "begin": 0,
+            "duration": 242,
+            "end": 242,
+            "id": "Dm779lkfgag"
+        }
+    ]
+}
