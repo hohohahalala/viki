@@ -1,0 +1,31 @@
+{
+    "baseVideoDuration": 242,
+    "baseVideoId": "FG_THyGrCko",
+    "cut": [
+        {
+            "with": {
+                "id": "FG_THyGrCko",
+                "begin": 0,
+                "duration": 0,
+                "end": 0
+            },
+            "begin": 0,
+            "duration": 0,
+            "end": 0
+        }
+    ],
+    "clip": [
+        {
+            "id": "FG_THyGrCko",
+            "begin": 0,
+            "duration": 0,
+            "end": 0
+        },
+        {
+            "begin": 0,
+            "duration": 242,
+            "end": 242,
+            "id": "FG_THyGrCko"
+        }
+    ]
+}
