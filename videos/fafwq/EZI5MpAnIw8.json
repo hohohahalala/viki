@@ -1,0 +1,37 @@
+{
+    "baseVideoDuration": 242,
+    "baseVideoId": "5l87PRcGJ-c",
+    "cut": [
+        {
+            "with": {
+                "id": "5l87PRcGJ-c",
+                "begin": 0,
+                "duration": 3,
+                "end": 3
+            },
+            "begin": 2,
+            "duration": 5,
+            "end": 7
+        }
+    ],
+    "clip": [
+        {
+            "begin": 0,
+            "duration": 2,
+            "end": 2,
+            "id": "5l87PRcGJ-c"
+        },
+        {
+            "id": "5l87PRcGJ-c",
+            "begin": 0,
+            "duration": 3,
+            "end": 3
+        },
+        {
+            "begin": 7,
+            "duration": 235,
+            "end": 242,
+            "id": "5l87PRcGJ-c"
+        }
+    ]
+}
