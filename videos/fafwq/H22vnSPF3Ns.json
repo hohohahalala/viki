@@ -1,0 +1,37 @@
+{
+    "baseVideoDuration": 242,
+    "baseVideoId": "Ungv92AmUPQ",
+    "cut": [
+        {
+            "with": {
+                "id": "Ungv92AmUPQ",
+                "begin": 0,
+                "duration": 0,
+                "end": 0
+            },
+            "begin": 13,
+            "duration": 3,
+            "end": 16
+        }
+    ],
+    "clip": [
+        {
+            "begin": 0,
+            "duration": 13,
+            "end": 13,
+            "id": "Ungv92AmUPQ"
+        },
+        {
+            "id": "Ungv92AmUPQ",
+            "begin": 0,
+            "duration": 0,
+            "end": 0
+        },
+        {
+            "begin": 16,
+            "duration": 226,
+            "end": 242,
+            "id": "Ungv92AmUPQ"
+        }
+    ]
+}
