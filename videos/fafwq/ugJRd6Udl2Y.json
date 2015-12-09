@@ -1,0 +1,37 @@
+{
+    "baseVideoDuration": 242,
+    "baseVideoId": "H22vnSPF3Ns",
+    "cut": [
+        {
+            "with": {
+                "id": "H22vnSPF3Ns",
+                "begin": 0,
+                "duration": 7,
+                "end": 7
+            },
+            "begin": 10,
+            "duration": 3,
+            "end": 13
+        }
+    ],
+    "clip": [
+        {
+            "begin": 0,
+            "duration": 10,
+            "end": 10,
+            "id": "H22vnSPF3Ns"
+        },
+        {
+            "id": "H22vnSPF3Ns",
+            "begin": 0,
+            "duration": 7,
+            "end": 7
+        },
+        {
+            "begin": 13,
+            "duration": 229,
+            "end": 242,
+            "id": "H22vnSPF3Ns"
+        }
+    ]
+}
