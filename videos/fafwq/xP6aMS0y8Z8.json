@@ -1,0 +1,31 @@
+{
+    "baseVideoDuration": 37.175,
+    "baseVideoId": "OqwMw-nt2kc",
+    "cut": [
+        {
+            "with": {
+                "id": "OqwMw-nt2kc",
+                "begin": 0,
+                "duration": 10,
+                "end": 10
+            },
+            "begin": 0,
+            "duration": 15,
+            "end": 15
+        }
+    ],
+    "clip": [
+        {
+            "id": "OqwMw-nt2kc",
+            "begin": 0,
+            "duration": 10,
+            "end": 10
+        },
+        {
+            "begin": 15,
+            "duration": 22.174999999999997,
+            "end": 37.175,
+            "id": "OqwMw-nt2kc"
+        }
+    ]
+}
