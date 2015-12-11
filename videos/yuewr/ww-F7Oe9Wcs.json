@@ -1,0 +1,31 @@
+{
+    "baseVideoDuration": 47.391999999999996,
+    "baseVideoId": "te8EbL0MY8A",
+    "cut": [
+        {
+            "with": {
+                "id": "te8EbL0MY8A",
+                "begin": 0,
+                "duration": 20,
+                "end": 20
+            },
+            "begin": 0,
+            "duration": 10,
+            "end": 10
+        }
+    ],
+    "clip": [
+        {
+            "id": "te8EbL0MY8A",
+            "begin": 0,
+            "duration": 20,
+            "end": 20
+        },
+        {
+            "begin": 10,
+            "duration": 37.391999999999996,
+            "end": 47.391999999999996,
+            "id": "te8EbL0MY8A"
+        }
+    ]
+}
