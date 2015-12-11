@@ -1,0 +1,65 @@
+{
+    "baseVideoDuration": 53.26699999999999,
+    "baseVideoId": "_2waxDuoCx8",
+    "cut": [
+        {
+            "with": {
+                "id": "_2waxDuoCx8",
+                "begin": 0,
+                "duration": 10,
+                "end": 10
+            },
+            "begin": 0,
+            "duration": 10,
+            "end": 10
+        },
+        {
+            "with": {
+                "id": "_2waxDuoCx8",
+                "begin": 0,
+                "duration": 10,
+                "end": 10
+            },
+            "begin": 10,
+            "duration": 10,
+            "end": 20
+        },
+        {
+            "with": {
+                "id": "_2waxDuoCx8",
+                "begin": 0,
+                "duration": 10,
+                "end": 10
+            },
+            "begin": 20,
+            "duration": 10,
+            "end": 30
+        }
+    ],
+    "clip": [
+        {
+            "id": "_2waxDuoCx8",
+            "begin": 0,
+            "duration": 10,
+            "end": 10
+        },
+        {
+            "id": "_2waxDuoCx8",
+            "begin": 0,
+            "duration": 10,
+            "end": 10
+        },
+        {
+            "id": "_2waxDuoCx8",
+            "begin": 0,
+            "duration": 10,
+            "end": 10
+        },
+        {
+            "begin": 30,
+            "duration": 23.26699999999999,
+            "end": 53.26699999999999,
+            "id": "_2waxDuoCx8"
+        }
+    ]
+}
