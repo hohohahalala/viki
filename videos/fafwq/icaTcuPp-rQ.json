@@ -1,0 +1,31 @@
+{
+    "baseVideoDuration": 55.28699999999999,
+    "baseVideoId": "uChg1mhPGnA",
+    "cut": [
+        {
+            "with": {
+                "id": "uChg1mhPGnA",
+                "begin": 0,
+                "duration": 20,
+                "end": 20
+            },
+            "begin": 0,
+            "duration": 10,
+            "end": 10
+        }
+    ],
+    "clip": [
+        {
+            "id": "uChg1mhPGnA",
+            "begin": 0,
+            "duration": 20,
+            "end": 20
+        },
+        {
+            "begin": 10,
+            "duration": 45.28699999999999,
+            "end": 55.28699999999999,
+            "id": "uChg1mhPGnA"
+        }
+    ]
+}
