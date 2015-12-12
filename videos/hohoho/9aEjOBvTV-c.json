@@ -1,0 +1,48 @@
+{
+    "baseVideoDuration": 33.553,
+    "baseVideoId": "7moF-qq3-Rs",
+    "cut": [
+        {
+            "with": {
+                "id": "7moF-qq3-Rs",
+                "begin": 0,
+                "duration": 20,
+                "end": 20
+            },
+            "begin": 0,
+            "duration": 10,
+            "end": 10
+        },
+        {
+            "with": {
+                "id": "7moF-qq3-Rs",
+                "begin": 0,
+                "duration": 10,
+                "end": 10
+            },
+            "begin": 10,
+            "duration": 10,
+            "end": 20
+        }
+    ],
+    "clip": [
+        {
+            "id": "7moF-qq3-Rs",
+            "begin": 0,
+            "duration": 20,
+            "end": 20
+        },
+        {
+            "id": "7moF-qq3-Rs",
+            "begin": 0,
+            "duration": 10,
+            "end": 10
+        },
+        {
+            "begin": 20,
+            "duration": 13.552999999999997,
+            "end": 33.553,
+            "id": "7moF-qq3-Rs"
+        }
+    ]
+}
