@@ -1,0 +1,37 @@
+{
+    "baseVideoDuration": 5.851043083900227,
+    "baseVideoId": "qwrGt_nb35c",
+    "cut": [
+        {
+            "with": {
+                "id": "qwrGt_nb35c",
+                "begin": 0,
+                "duration": 4,
+                "end": 4
+            },
+            "begin": 0.342727,
+            "duration": 1.657273,
+            "end": 2
+        }
+    ],
+    "clip": [
+        {
+            "begin": 0,
+            "duration": 0.342727,
+            "end": 0.342727,
+            "id": "qwrGt_nb35c"
+        },
+        {
+            "id": "qwrGt_nb35c",
+            "begin": 0,
+            "duration": 4,
+            "end": 4
+        },
+        {
+            "begin": 2,
+            "duration": 3.851043083900227,
+            "end": 5.851043083900227,
+            "id": "qwrGt_nb35c"
+        }
+    ]
+}
