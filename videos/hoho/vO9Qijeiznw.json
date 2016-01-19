@@ -1,0 +1,31 @@
+{
+    "baseVideoDuration": 23.197,
+    "baseVideoId": "C379snnKJqg",
+    "cut": [
+        {
+            "with": {
+                "id": "C379snnKJqg",
+                "begin": 0,
+                "duration": 10,
+                "end": 10
+            },
+            "begin": 0,
+            "duration": 20,
+            "end": 20
+        }
+    ],
+    "clip": [
+        {
+            "id": "C379snnKJqg",
+            "begin": 0,
+            "duration": 10,
+            "end": 10
+        },
+        {
+            "begin": 20,
+            "duration": 3.196999999999999,
+            "end": 23.197,
+            "id": "C379snnKJqg"
+        }
+    ]
+}
