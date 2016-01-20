@@ -1,0 +1,31 @@
+{
+    "baseVideoDuration": 26.801,
+    "baseVideoId": "93r7INepwa4",
+    "cut": [
+        {
+            "with": {
+                "id": "93r7INepwa4",
+                "begin": 0,
+                "duration": 0,
+                "end": 0
+            },
+            "begin": 0,
+            "duration": 2,
+            "end": 2
+        }
+    ],
+    "clip": [
+        {
+            "id": "93r7INepwa4",
+            "begin": 0,
+            "duration": 0,
+            "end": 0
+        },
+        {
+            "begin": 2,
+            "duration": 24.801,
+            "end": 26.801,
+            "id": "93r7INepwa4"
+        }
+    ]
+}
