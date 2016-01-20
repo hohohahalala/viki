@@ -1,0 +1,31 @@
+{
+    "baseVideoDuration": 22.96453514739229,
+    "baseVideoId": "uzWaRUJK57s",
+    "cut": [
+        {
+            "with": {
+                "id": "uzWaRUJK57s",
+                "begin": 0,
+                "duration": 4,
+                "end": 4
+            },
+            "begin": 0,
+            "duration": 2,
+            "end": 2
+        }
+    ],
+    "clip": [
+        {
+            "id": "uzWaRUJK57s",
+            "begin": 0,
+            "duration": 4,
+            "end": 4
+        },
+        {
+            "begin": 2,
+            "duration": 20.96453514739229,
+            "end": 22.96453514739229,
+            "id": "uzWaRUJK57s"
+        }
+    ]
+}
