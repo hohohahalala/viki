@@ -1,0 +1,31 @@
+{
+    "baseVideoDuration": 18,
+    "baseVideoId": "CuZJV3muTiA",
+    "cut": [
+        {
+            "with": {
+                "id": "CuZJV3muTiA",
+                "begin": 0,
+                "duration": 2,
+                "end": 2
+            },
+            "begin": 0,
+            "duration": 5,
+            "end": 5
+        }
+    ],
+    "clip": [
+        {
+            "id": "CuZJV3muTiA",
+            "begin": 0,
+            "duration": 2,
+            "end": 2
+        },
+        {
+            "begin": 5,
+            "duration": 13,
+            "end": 18,
+            "id": "CuZJV3muTiA"
+        }
+    ]
+}
