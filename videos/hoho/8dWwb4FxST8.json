@@ -1,0 +1,31 @@
+{
+    "baseVideoDuration": 15,
+    "baseVideoId": "A87HnVLWjcs",
+    "cut": [
+        {
+            "with": {
+                "id": "A87HnVLWjcs",
+                "begin": 0,
+                "duration": 15,
+                "end": 15
+            },
+            "begin": 0,
+            "duration": 10,
+            "end": 10
+        }
+    ],
+    "clip": [
+        {
+            "id": "A87HnVLWjcs",
+            "begin": 0,
+            "duration": 15,
+            "end": 15
+        },
+        {
+            "begin": 10,
+            "duration": 5,
+            "end": 15,
+            "id": "A87HnVLWjcs"
+        }
+    ]
+}
