@@ -1,0 +1,37 @@
+{
+    "baseVideoDuration": 25.031,
+    "baseVideoId": "HHGWE-IYU58",
+    "cut": [
+        {
+            "with": {
+                "id": "HHGWE-IYU58",
+                "begin": 0,
+                "duration": 2,
+                "end": 2
+            },
+            "begin": 0.005606483,
+            "duration": 3.994393517,
+            "end": 4
+        }
+    ],
+    "clip": [
+        {
+            "begin": 0,
+            "duration": 0.005606483,
+            "end": 0.005606483,
+            "id": "HHGWE-IYU58"
+        },
+        {
+            "id": "HHGWE-IYU58",
+            "begin": 0,
+            "duration": 2,
+            "end": 2
+        },
+        {
+            "begin": 4,
+            "duration": 21.031,
+            "end": 25.031,
+            "id": "HHGWE-IYU58"
+        }
+    ]
+}
