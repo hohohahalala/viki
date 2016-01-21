@@ -1,0 +1,31 @@
+{
+    "baseVideoDuration": 38.684999999999995,
+    "baseVideoId": "OasX3RNSf_o",
+    "cut": [
+        {
+            "with": {
+                "id": "OasX3RNSf_o",
+                "begin": 0,
+                "duration": 4,
+                "end": 4
+            },
+            "begin": 0,
+            "duration": 2,
+            "end": 2
+        }
+    ],
+    "clip": [
+        {
+            "id": "OasX3RNSf_o",
+            "begin": 0,
+            "duration": 4,
+            "end": 4
+        },
+        {
+            "begin": 2,
+            "duration": 36.684999999999995,
+            "end": 38.684999999999995,
+            "id": "OasX3RNSf_o"
+        }
+    ]
+}
