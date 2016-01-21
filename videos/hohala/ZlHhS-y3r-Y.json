@@ -1,0 +1,37 @@
+{
+    "baseVideoDuration": 43,
+    "baseVideoId": "neTddd_UgiA",
+    "cut": [
+        {
+            "with": {
+                "id": "neTddd_UgiA",
+                "begin": 0,
+                "duration": 0,
+                "end": 0
+            },
+            "begin": 2,
+            "duration": 3,
+            "end": 5
+        }
+    ],
+    "clip": [
+        {
+            "begin": 0,
+            "duration": 2,
+            "end": 2,
+            "id": "neTddd_UgiA"
+        },
+        {
+            "id": "neTddd_UgiA",
+            "begin": 0,
+            "duration": 0,
+            "end": 0
+        },
+        {
+            "begin": 5,
+            "duration": 38,
+            "end": 43,
+            "id": "neTddd_UgiA"
+        }
+    ]
+}
