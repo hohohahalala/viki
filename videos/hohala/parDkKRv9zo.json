@@ -1,0 +1,31 @@
+{
+    "baseVideoDuration": 16.761,
+    "baseVideoId": "s-220X8aHVw",
+    "cut": [
+        {
+            "with": {
+                "id": "s-220X8aHVw",
+                "begin": 0,
+                "duration": 2,
+                "end": 2
+            },
+            "begin": 0,
+            "duration": 4,
+            "end": 4
+        }
+    ],
+    "clip": [
+        {
+            "id": "s-220X8aHVw",
+            "begin": 0,
+            "duration": 2,
+            "end": 2
+        },
+        {
+            "begin": 4,
+            "duration": 12.761,
+            "end": 16.761,
+            "id": "s-220X8aHVw"
+        }
+    ]
+}
