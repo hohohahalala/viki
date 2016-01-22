@@ -1,0 +1,31 @@
+{
+    "baseVideoDuration": 14.883990929705215,
+    "baseVideoId": "Na-7RL0th0Y",
+    "cut": [
+        {
+            "with": {
+                "id": "Na-7RL0th0Y",
+                "begin": 0,
+                "duration": 2,
+                "end": 2
+            },
+            "begin": 0,
+            "duration": 5,
+            "end": 5
+        }
+    ],
+    "clip": [
+        {
+            "id": "Na-7RL0th0Y",
+            "begin": 0,
+            "duration": 2,
+            "end": 2
+        },
+        {
+            "begin": 5,
+            "duration": 9.883990929705215,
+            "end": 14.883990929705215,
+            "id": "Na-7RL0th0Y"
+        }
+    ]
+}
