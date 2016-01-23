@@ -1,0 +1,31 @@
+{
+    "baseVideoDuration": 23.45215419501134,
+    "baseVideoId": "ca-wy85BlU0",
+    "cut": [
+        {
+            "with": {
+                "id": "ca-wy85BlU0",
+                "begin": 0,
+                "duration": 4,
+                "end": 4
+            },
+            "begin": 0,
+            "duration": 2,
+            "end": 2
+        }
+    ],
+    "clip": [
+        {
+            "id": "ca-wy85BlU0",
+            "begin": 0,
+            "duration": 4,
+            "end": 4
+        },
+        {
+            "begin": 2,
+            "duration": 21.45215419501134,
+            "end": 23.45215419501134,
+            "id": "ca-wy85BlU0"
+        }
+    ]
+}
