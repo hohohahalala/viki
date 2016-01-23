@@ -1,0 +1,37 @@
+{
+    "baseVideoDuration": 26.470748299319727,
+    "baseVideoId": "naIfWLUrXGY",
+    "cut": [
+        {
+            "with": {
+                "id": "naIfWLUrXGY",
+                "begin": 0,
+                "duration": 3,
+                "end": 3
+            },
+            "begin": 2,
+            "duration": 2,
+            "end": 4
+        }
+    ],
+    "clip": [
+        {
+            "begin": 0,
+            "duration": 2,
+            "end": 2,
+            "id": "naIfWLUrXGY"
+        },
+        {
+            "id": "naIfWLUrXGY",
+            "begin": 0,
+            "duration": 3,
+            "end": 3
+        },
+        {
+            "begin": 4,
+            "duration": 22.470748299319727,
+            "end": 26.470748299319727,
+            "id": "naIfWLUrXGY"
+        }
+    ]
+}
