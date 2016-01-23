@@ -1,0 +1,65 @@
+{
+    "baseVideoDuration": 23.45215419501134,
+    "baseVideoId": "ca-wy85BlU0",
+    "cut": [
+        {
+            "with": {
+                "id": "ca-wy85BlU0",
+                "begin": 0.296289,
+                "duration": 22.703711,
+                "end": 23
+            },
+            "begin": 0,
+            "duration": 1,
+            "end": 1
+        },
+        {
+            "with": {
+                "id": "ca-wy85BlU0",
+                "begin": 0.296289,
+                "duration": 22.703711,
+                "end": 23
+            },
+            "begin": 1,
+            "duration": 1,
+            "end": 2
+        },
+        {
+            "with": {
+                "id": "ca-wy85BlU0",
+                "begin": 0.296289,
+                "duration": 22.703711,
+                "end": 23
+            },
+            "begin": 2,
+            "duration": 1,
+            "end": 3
+        }
+    ],
+    "clip": [
+        {
+            "id": "ca-wy85BlU0",
+            "begin": 0.296289,
+            "duration": 22.703711,
+            "end": 23
+        },
+        {
+            "id": "ca-wy85BlU0",
+            "begin": 0.296289,
+            "duration": 22.703711,
+            "end": 23
+        },
+        {
+            "id": "ca-wy85BlU0",
+            "begin": 0.296289,
+            "duration": 22.703711,
+            "end": 23
+        },
+        {
+            "begin": 3,
+            "duration": 20.45215419501134,
+            "end": 23.45215419501134,
+            "id": "ca-wy85BlU0"
+        }
+    ]
+}
