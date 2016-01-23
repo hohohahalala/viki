@@ -1,0 +1,99 @@
+{
+    "baseVideoDuration": 20.410999999999998,
+    "baseVideoId": "yOuCANFN56g",
+    "cut": [
+        {
+            "with": {
+                "id": "yOuCANFN56g",
+                "begin": 0.342727,
+                "duration": 19.657273,
+                "end": 20
+            },
+            "begin": 0,
+            "duration": 1,
+            "end": 1
+        },
+        {
+            "with": {
+                "id": "yOuCANFN56g",
+                "begin": 0.342727,
+                "duration": 19.657273,
+                "end": 20
+            },
+            "begin": 1,
+            "duration": 1,
+            "end": 2
+        },
+        {
+            "with": {
+                "id": "yOuCANFN56g",
+                "begin": 0.342727,
+                "duration": 19.657273,
+                "end": 20
+            },
+            "begin": 2,
+            "duration": 1,
+            "end": 3
+        },
+        {
+            "with": {
+                "id": "yOuCANFN56g",
+                "begin": 0.342727,
+                "duration": 19.657273,
+                "end": 20
+            },
+            "begin": 3,
+            "duration": 1,
+            "end": 4
+        },
+        {
+            "with": {
+                "id": "yOuCANFN56g",
+                "begin": 0.342727,
+                "duration": 19.657273,
+                "end": 20
+            },
+            "begin": 4,
+            "duration": 1,
+            "end": 5
+        }
+    ],
+    "clip": [
+        {
+            "id": "yOuCANFN56g",
+            "begin": 0.342727,
+            "duration": 19.657273,
+            "end": 20
+        },
+        {
+            "id": "yOuCANFN56g",
+            "begin": 0.342727,
+            "duration": 19.657273,
+            "end": 20
+        },
+        {
+            "id": "yOuCANFN56g",
+            "begin": 0.342727,
+            "duration": 19.657273,
+            "end": 20
+        },
+        {
+            "id": "yOuCANFN56g",
+            "begin": 0.342727,
+            "duration": 19.657273,
+            "end": 20
+        },
+        {
+            "id": "yOuCANFN56g",
+            "begin": 0.342727,
+            "duration": 19.657273,
+            "end": 20
+        },
+        {
+            "begin": 5,
+            "duration": 15.410999999999998,
+            "end": 20.410999999999998,
+            "id": "yOuCANFN56g"
+        }
+    ]
+}
