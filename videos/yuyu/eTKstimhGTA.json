@@ -1,0 +1,31 @@
+{
+    "baseVideoDuration": 42,
+    "baseVideoId": "F7VzmVFxrv0",
+    "cut": [
+        {
+            "with": {
+                "id": "F7VzmVFxrv0",
+                "begin": 0,
+                "duration": 12,
+                "end": 12
+            },
+            "begin": 0,
+            "duration": 5,
+            "end": 5
+        }
+    ],
+    "clip": [
+        {
+            "id": "F7VzmVFxrv0",
+            "begin": 0,
+            "duration": 12,
+            "end": 12
+        },
+        {
+            "begin": 5,
+            "duration": 37,
+            "end": 42,
+            "id": "F7VzmVFxrv0"
+        }
+    ]
+}
