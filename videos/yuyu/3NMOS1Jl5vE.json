@@ -1,0 +1,31 @@
+{
+    "baseVideoDuration": 15,
+    "baseVideoId": "UxvVENLVO2k",
+    "cut": [
+        {
+            "with": {
+                "id": "UxvVENLVO2k",
+                "begin": 0,
+                "duration": 4,
+                "end": 4
+            },
+            "begin": 0,
+            "duration": 2,
+            "end": 2
+        }
+    ],
+    "clip": [
+        {
+            "id": "UxvVENLVO2k",
+            "begin": 0,
+            "duration": 4,
+            "end": 4
+        },
+        {
+            "begin": 2,
+            "duration": 13,
+            "end": 15,
+            "id": "UxvVENLVO2k"
+        }
+    ]
+}
