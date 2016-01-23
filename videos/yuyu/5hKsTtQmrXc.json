@@ -1,0 +1,31 @@
+{
+    "baseVideoDuration": 28.676643990929705,
+    "baseVideoId": "OBQe3gezaLU",
+    "cut": [
+        {
+            "with": {
+                "id": "OBQe3gezaLU",
+                "begin": 0,
+                "duration": 3,
+                "end": 3
+            },
+            "begin": 0,
+            "duration": 5,
+            "end": 5
+        }
+    ],
+    "clip": [
+        {
+            "id": "OBQe3gezaLU",
+            "begin": 0,
+            "duration": 3,
+            "end": 3
+        },
+        {
+            "begin": 5,
+            "duration": 23.676643990929705,
+            "end": 28.676643990929705,
+            "id": "OBQe3gezaLU"
+        }
+    ]
+}
