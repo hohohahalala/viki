@@ -1,0 +1,31 @@
+{
+    "baseVideoDuration": 18.204444444444444,
+    "baseVideoId": "we0Wd8-dvUU",
+    "cut": [
+        {
+            "with": {
+                "id": "we0Wd8-dvUU",
+                "begin": 0,
+                "duration": 4,
+                "end": 4
+            },
+            "begin": 0,
+            "duration": 2,
+            "end": 2
+        }
+    ],
+    "clip": [
+        {
+            "id": "we0Wd8-dvUU",
+            "begin": 0,
+            "duration": 4,
+            "end": 4
+        },
+        {
+            "begin": 2,
+            "duration": 16.204444444444444,
+            "end": 18.204444444444444,
+            "id": "we0Wd8-dvUU"
+        }
+    ]
+}
