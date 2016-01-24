@@ -1,0 +1,37 @@
+{
+    "baseVideoDuration": 18.45986394557823,
+    "baseVideoId": "SaWYIsCB-OQ",
+    "cut": [
+        {
+            "with": {
+                "id": "ZGEKtB54cgc",
+                "begin": 0.00049,
+                "duration": 22.602,
+                "end": 22.60249
+            },
+            "begin": 17.177257,
+            "duration": 1.2593859999999992,
+            "end": 18.436643
+        }
+    ],
+    "clip": [
+        {
+            "begin": 0,
+            "duration": 17.177257,
+            "end": 17.177257,
+            "id": "SaWYIsCB-OQ"
+        },
+        {
+            "id": "ZGEKtB54cgc",
+            "begin": 0.00049,
+            "duration": 22.602,
+            "end": 22.60249
+        },
+        {
+            "begin": 18.436643,
+            "duration": 0.023220945578231067,
+            "end": 18.45986394557823,
+            "id": "SaWYIsCB-OQ"
+        }
+    ]
+}
