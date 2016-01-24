@@ -1,0 +1,82 @@
+{
+    "baseVideoDuration": 35.898049886621315,
+    "baseVideoId": "tdSdQtgNfx0",
+    "cut": [
+        {
+            "with": {
+                "id": "tdSdQtgNfx0",
+                "begin": 0,
+                "duration": 30,
+                "end": 30
+            },
+            "begin": 0,
+            "duration": 1,
+            "end": 1
+        },
+        {
+            "with": {
+                "id": "tdSdQtgNfx0",
+                "begin": 0,
+                "duration": 30,
+                "end": 30
+            },
+            "begin": 1,
+            "duration": 1,
+            "end": 2
+        },
+        {
+            "with": {
+                "id": "tdSdQtgNfx0",
+                "begin": 0,
+                "duration": 30,
+                "end": 30
+            },
+            "begin": 2,
+            "duration": 1,
+            "end": 3
+        },
+        {
+            "with": {
+                "id": "tdSdQtgNfx0",
+                "begin": 0,
+                "duration": 30,
+                "end": 30
+            },
+            "begin": 3,
+            "duration": 1,
+            "end": 4
+        }
+    ],
+    "clip": [
+        {
+            "id": "tdSdQtgNfx0",
+            "begin": 0,
+            "duration": 30,
+            "end": 30
+        },
+        {
+            "id": "tdSdQtgNfx0",
+            "begin": 0,
+            "duration": 30,
+            "end": 30
+        },
+        {
+            "id": "tdSdQtgNfx0",
+            "begin": 0,
+            "duration": 30,
+            "end": 30
+        },
+        {
+            "id": "tdSdQtgNfx0",
+            "begin": 0,
+            "duration": 30,
+            "end": 30
+        },
+        {
+            "begin": 4,
+            "duration": 31.898049886621315,
+            "end": 35.898049886621315,
+            "id": "tdSdQtgNfx0"
+        }
+    ]
+}
