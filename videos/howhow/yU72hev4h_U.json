@@ -1,0 +1,31 @@
+{
+    "baseVideoDuration": 122.50848072562358,
+    "baseVideoId": "QLGDlsP6q-w",
+    "cut": [
+        {
+            "with": {
+                "id": "QLGDlsP6q-w",
+                "begin": 0,
+                "duration": 5,
+                "end": 5
+            },
+            "begin": 0,
+            "duration": 120,
+            "end": 120
+        }
+    ],
+    "clip": [
+        {
+            "id": "QLGDlsP6q-w",
+            "begin": 0,
+            "duration": 5,
+            "end": 5
+        },
+        {
+            "begin": 120,
+            "duration": 2.508480725623585,
+            "end": 122.50848072562358,
+            "id": "QLGDlsP6q-w"
+        }
+    ]
+}
